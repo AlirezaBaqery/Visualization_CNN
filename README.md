@@ -25,7 +25,7 @@ In this project, we will discover how to develop simple visualizations for filte
 
 ### Built With
 
-The following libraries are used in this project.
+The following libraries and tools are used in this project.
 
 - Python 3.8.10
 - Keras 2.11.0
